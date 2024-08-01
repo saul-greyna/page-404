@@ -6,3 +6,96 @@ body{
     line-height: 17.07px;
     font-family: 'Montserrat';
 }
+
+.container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.image {
+    width: 539.22px;
+    padding-right: 120px; 
+    padding-top: 210px;
+    padding-left: 120px;
+}
+
+h1 {
+    font-family: 'Space Mono';
+    font-size: 64px;
+    color: #333333;
+    text-align: end;
+}
+
+.tipografia {
+    letter-spacing: -3%;
+    font-family: 'Space Mono';
+}
+
+p{
+    font-size: 24px;
+    height: 108px;
+    width: 381px;
+    top: 491px;
+    left: 736px;
+    line-height: 35.54px;
+    letter-spacing: -3.5%;
+    color: #4F4F4F;
+}
+
+button {
+    background-color: #333333;
+    width: 216px;
+    height: 68px;
+    top: 663px;
+    left: 740px;
+}
+
+#text {
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+/* #inicio{
+    background-color: #000;
+    height: 100vh;
+}
+
+    #titulos, #video_intro{
+        width: 50%;
+        height: 100vh;
+        display: inline-block;
+        vertical-align: top;
+        overflow: hidden;
+    }
+
+    #titulos{
+        background: url(../image/fondo.jpg)no-repeat 30% 30%;
+        background-size: cover;
+        text-align: center;
+        padding: 25vh 100px;
+        color: white;
+
+    }
+        
+        h4{
+            font-family: 'Zen Loop', cursive;
+            font-size: 2.5rem;
+            margin-bottom: 30px;
+        }
+
+    #tendencia{
+        font-family: Chilanka, cursiva;
+        font-size: 4.5rem;
+        margin-bottom: 30px;
+    }
+
+    h3{
+        font-family: Bubbler, cursive;
+        font-size: 1.2rem;
+        letter-spacing: 3px;
+    }
+
+    #principal{
+        height: 100vh;
+    } */
