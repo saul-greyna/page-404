@@ -9,16 +9,18 @@ body{
 }
 
 h1 {
-    font-weight: 700;
     width: 133px;
     height: 25px;
     top: 40px;
     left: 77px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Inconsolata";
     font-size: 24px;
+    font-weight: 700;
     line-height: 25.18px;
-    letter-spacing: -8%;
-    color: #333333;
-    font-family: 'Inconsolata';
+    letter-spacing: -0.08em;
+    text-align: left;
 }
 
 .container {
@@ -29,9 +31,10 @@ h1 {
 
 .image {
     width: 539.22px;
+    height: 447.43px;
     padding-right: 120px; 
-    padding-top: 210px;
-    padding-left: 230px;
+    padding-top: 265px;
+    padding-left: 77px;
 }
 
 h2 {
@@ -39,6 +42,10 @@ h2 {
     font-size: 64px;
     color: #333333;
     text-align: left;
+    width: 586px;
+    height: 190px;
+    top: 265px;
+    left: 735px;
 }
 
 .tipografia {
@@ -48,11 +55,7 @@ h2 {
 }
 
 p{
-    font-size: 24px;
-    height: 108px;
-    width: 381px;
-    top: 491px;
-    left: 736px;
+    font-size: 14px;
     line-height: 35.54px;
     letter-spacing: -3.5%;
     color: #4F4F4F;
@@ -66,6 +69,13 @@ button {
     left: 740px;
 }
 
+#derechos {
+    text-align: center;
+    font-size: 14px;
+    line-height: 17.07px;
+
+
+}
 /* #inicio{
     background-color: #000;
     height: 100vh;
