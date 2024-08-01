@@ -8,25 +8,13 @@ body{
 
 /* Header */
 
+.contenido{
+    display: inline-block;
+}
+
 .image{
     width: 539.22px;
     height: 447.43px;
     padding: 4%;
     margin: 2%;
-}
-
-h2{
-    font-size: 64px;    
-}
-
-button{
-    color: #ffffff;
-    line-height: 20.73%;
-    font-size: 14px;
-    right: 300px;
-}
-
-footer{
-    text-align: center;
-    color: #BDBDBD;
 }
