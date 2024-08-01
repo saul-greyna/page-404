@@ -17,19 +17,20 @@ body{
     width: 539.22px;
     padding-right: 120px; 
     padding-top: 210px;
-    padding-left: 120px;
+    padding-left: 230px;
 }
 
-h1 {
+h2 {
     font-family: 'Space Mono';
     font-size: 64px;
     color: #333333;
-    text-align: end;
+    text-align: left;
 }
 
 .tipografia {
     letter-spacing: -3%;
     font-family: 'Space Mono';
+    text-align: left;
 }
 
 p{
@@ -49,11 +50,6 @@ button {
     height: 68px;
     top: 663px;
     left: 740px;
-}
-
-#text {
-    font-weight: 700;
-    color: #FFFFFF;
 }
 
 /* #inicio{
