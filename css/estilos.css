@@ -2,7 +2,6 @@
 
 body{
     font-size: 14px;
-<<<<<<< HEAD
     line-height: 17.07px;
     font-family: 'Montserrat';
 }
@@ -22,7 +21,6 @@ h2{
 
 button{
     color: #ffffff;
-    
     line-height: 20.73%;
     font-size: 14px;
     right: 300px;
@@ -31,10 +29,4 @@ button{
 footer{
     text-align: center;
     color: #BDBDBD;
-    
-=======
-    text-align: center;
-    line-height: 17.07px;
-    font-family: 'Montserrat';
->>>>>>> 4e986061261f79a286a983ec4e69da9c2446ec86
 }
