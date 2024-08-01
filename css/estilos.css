@@ -6,22 +6,3 @@ body{
     line-height: 17.07px;
     font-family: 'Montserrat';
 }
-
-/* Header */
-
-article{
-    display: inline-block;
-}
-
-.image{
-    width: 539.22px;
-    height: 447.43px;
-    padding: 4%;
-    margin: 2%;
-}
-
-h2{
-    font-family: 'Space Mono';
-    font-size: 64px;
-    color: #333333;
-}
