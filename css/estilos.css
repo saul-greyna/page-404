@@ -21,6 +21,21 @@ h1 {
 
 .container {
     display: flex;
-    align-items: center;
-    width: 100%;
+}
+
+#image {
+    width: 539.22px;
+    height: 447.43px;
+    margin-left: 77px;
+    margin-top: 265px;
+}
+
+h2 {
+    width: 586px;
+    height: 190px;
+    margin-top: 265px;
+    font-size: 64px;
+    font-family: 'Space Mono';
+    letter-spacing: -2.5pt;
+    line-height: 94.78px;
 }
