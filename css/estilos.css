@@ -30,11 +30,16 @@ h1 {
 }
 
 .image {
-    width: 539.22px;
-    height: 447.43px;
-    padding-right: 120px; 
     padding-top: 265px;
     padding-left: 77px;
+    padding-bottom: 367.57px;
+    padding-right: 823.78px;
+    width: 539.22px;
+    height: 447.43px;
+    top: 265px;
+    left: 77px;
+    gap: 0px;
+    opacity: 0px;
 }
 
 h2 {
