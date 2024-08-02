@@ -9,13 +9,14 @@ body{
 h1 {
     margin-top: 40px;
     margin-left: 77px;
-    width: 156px;
+    width: 133px;
     height: 25px;
     font-family: 'Inconsolata';
     font-size: 24px;
     line-height: 25.18px;
-    letter-spacing: -10em;
+    letter-spacing: -2pt;
     color: #333333;
+    margin: 34p;
 }
 
 .container {
