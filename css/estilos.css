@@ -30,13 +30,16 @@ h1 {
     margin-top: 265px;
 }
 
+.tipografia {
+    font-family: 'Space Mono';
+    letter-spacing: -2.5pt;
+}
+
 h2 {
     width: 586px;
     height: 190px;
     margin-top: 265px;
     margin-left: 119px;
     font-size: 64px;
-    font-family: 'Space Mono';
-    letter-spacing: -2.5pt;
     line-height: 94.78px;
 }
