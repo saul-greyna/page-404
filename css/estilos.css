@@ -2,10 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wdth,wght@50..200,700&display=swap');
 
-body{
-    background: #FFFFFF;
-}
-
 h1 {
     margin-top: 40px;
     margin-left: 77px;
@@ -31,7 +27,7 @@ h1 {
 
 .tipografia {
     font-family: 'Space Mono';
-    letter-spacing: -2.5pt;
+    letter-spacing: -0.035em;
 }
 
 h2 {
@@ -52,10 +48,46 @@ h2 {
     margin-left: 120px;
     gap: 0px;
     opacity: 0px;
-    font-family: 'Space Mono';
     font-size: 24px;
     font-weight: 400;
     line-height: 35.54px;
-    letter-spacing: -0.035em;
+    
     text-align: left;
 }
+
+button {
+    width: 216px;
+    height: 68px;
+    top: 683px;
+    margin-left: 140px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #333333;
+}
+
+#text {
+    width: 130px;
+    height: 21px;
+    top: 687px;
+    left: 783px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20.73px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+#derechos {
+    font-family: 'Montserrat';
+    font-size: 14px;
+    width: 300px;
+    height: 17px;
+    margin-top: 120px;
+    margin-left: 777px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.07px;
+    color: #bdbdbd;
+}   
